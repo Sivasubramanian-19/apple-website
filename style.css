@@ -1,0 +1,16 @@
+.applelogo{
+    height: 30px;
+    width: 25px;
+}
+
+.features{
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+}
+
+.outer{
+    width: auto;
+    height: 20vh;
+    border-radius: 10px;
+}
